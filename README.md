@@ -1,6 +1,6 @@
 # "wcs" Stream Meter
 
-This small tool can be put between commands and prints the number of bytes piped through it to STDOUT. The name is derived from "wc stream", although it does not count words or lines.
+This small tool by [Arno Wagner](http://www.arnowagner.info/tools/index.html) can be put between commands and prints the number of bytes piped through it to STDOUT. The name is derived from "wc stream", although it does not count words or lines.
 Very useful for things like progress reporting, and a lot easier to use than the similar functionality of "dd". 
 Very simple compile instructions at the start of the source file.
 Example output:
